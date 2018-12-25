@@ -1,0 +1,50 @@
+{
+  "_id": "page.question6",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question6--radios.auto_name__6",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.question6--radios.auto_name__6--radio.auto_value__22",
+          "_type": "radio",
+          "hint": "We get on very well and don’t really argue",
+          "label": "Very easy",
+          "value": "auto_value__22"
+        },
+        {
+          "_id": "page.question6--radios.auto_name__6--radio.auto_value__23",
+          "_type": "radio",
+          "hint": "We mostly get on well but sometimes argue",
+          "label": "Fairly easy",
+          "value": "auto_value__23"
+        },
+        {
+          "_id": "page.question6--radios.auto_name__6--radio.auto_value__24",
+          "_type": "radio",
+          "hint": "Sometimes we get on, sometimes we argue",
+          "label": "It depends",
+          "value": "auto_value__24"
+        },
+        {
+          "_id": "page.question6--radios.auto_name__6--radio.auto_value__25",
+          "_type": "radio",
+          "hint": "We rarely get on well and often argue",
+          "label": "Difficult",
+          "value": "auto_value__25"
+        },
+        {
+          "_id": "page.question6--radios.auto_name__6--radio.auto_value__26",
+          "_type": "radio",
+          "hint": "We argue about almost everything",
+          "label": "Extremely difficult",
+          "value": "auto_value__26"
+        }
+      ],
+      "legend": "How is your communication with the other parent?",
+      "name": "auto_name__6"
+    }
+  ],
+  "url": "question6"
+}

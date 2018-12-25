@@ -1,0 +1,39 @@
+{
+  "_id": "page.question3",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question3--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.question3--radios.auto_name__3--radio.auto_value__11",
+          "_type": "radio",
+          "label": "Less than 6 months",
+          "value": "auto_value__11"
+        },
+        {
+          "_id": "page.question3--radios.auto_name__3--radio.auto_value__12",
+          "_type": "radio",
+          "label": "6 months to 1 year",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.question3--radios.auto_name__3--radio.auto_value__13",
+          "_type": "radio",
+          "label": "1 year to 3 years",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.question3--radios.auto_name__3--radio.auto_value__14",
+          "_type": "radio",
+          "label": "More than 3 years",
+          "value": "auto_value__14"
+        }
+      ],
+      "legend": "How long have you been trying to agree on child arrangements?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "question3"
+}

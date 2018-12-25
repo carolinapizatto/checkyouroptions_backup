@@ -1,0 +1,45 @@
+{
+  "_id": "page.question8",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question8--radios.auto_name__8",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.question8--radios.auto_name__8--radio.auto_value__29",
+          "_type": "radio",
+          "label": "The children live with them",
+          "value": "auto_value__29"
+        },
+        {
+          "_id": "page.question8--radios.auto_name__8--radio.auto_value__30",
+          "_type": "radio",
+          "label": "They see the children regularly",
+          "value": "auto_value__30"
+        },
+        {
+          "_id": "page.question8--radios.auto_name__8--radio.auto_value__31",
+          "_type": "radio",
+          "label": "They see the children sometimes",
+          "value": "auto_value__31"
+        },
+        {
+          "_id": "page.question8--radios.auto_name__8--radio.auto_value__32",
+          "_type": "radio",
+          "label": "They rarely see the children",
+          "value": "auto_value__32"
+        },
+        {
+          "_id": "page.question8--radios.auto_name__8--radio.auto_value__33",
+          "_type": "radio",
+          "label": "They haven’t seen the children for years",
+          "value": "auto_value__33"
+        }
+      ],
+      "legend": "What’s the other parent’s relationship like with the children?",
+      "name": "auto_name__8"
+    }
+  ],
+  "url": "question8"
+}

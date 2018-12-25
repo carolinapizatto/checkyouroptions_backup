@@ -1,0 +1,45 @@
+{
+  "_id": "page.question4",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question4--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.question4--radios.auto_name__4--radio.auto_value__15",
+          "_type": "radio",
+          "label": "We hate each other",
+          "value": "auto_value__15"
+        },
+        {
+          "_id": "page.question4--radios.auto_name__4--radio.auto_value__16",
+          "_type": "radio",
+          "label": "We don't talk anymore",
+          "value": "auto_value__16"
+        },
+        {
+          "_id": "page.question4--radios.auto_name__4--radio.auto_value__17",
+          "_type": "radio",
+          "label": "They are aggressive towards me",
+          "value": "auto_value__17"
+        },
+        {
+          "_id": "page.question4--radios.auto_name__4--radio.auto_value__18",
+          "_type": "radio",
+          "label": "We are civil to each other",
+          "value": "auto_value__18"
+        },
+        {
+          "_id": "page.question4--radios.auto_name__4--radio.auto_value__19",
+          "_type": "radio",
+          "label": "Friendly",
+          "value": "auto_value__19"
+        }
+      ],
+      "legend": "What’s your relationship like with the other parent?",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "question4"
+}

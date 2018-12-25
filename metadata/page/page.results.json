@@ -1,0 +1,18 @@
+{
+  "_id": "page.results",
+  "_type": "page.exit",
+  "body": "### [Professional Mediation](https://fj-cait-staging.apps.cloud-platform-live-0.k8s.integration.dsd.io/professional-mediation)\r\nMediation sessions are run by professionals who help you try to reach an agreement without going to court. It isn’t relationship counselling and you don’t have to be in the same room as the other parent.\r\n\r\n**Who’s involved**\r\n* Both parents\r\n* Mediator",
+  "components": [
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.results--content",
+      "_type": "content",
+      "html": "### You might also benefit from\r\n\r\n**Manage disputes with the other parent**\r\n\r\n[The Separated Parents Information Programme](https://www.cafcass.gov.uk/grown-ups/parents-and-carers/divorce-and-separation/separated-parents-information-programme/) helps you understand how to put your children first and manage disputes with the other parent. There are similar programmes in Wales and Scotland.\r\n\r\n**Emotional readiness**\r\n\r\nEmotional readiness is being able to put aside your own feelings and any negative thoughts about the other parent. If you’re emotionally ready you’ll have a better chance of making an agreement that’s in the best interests of your children.\r\n\r\nThe Children and Family Court Advisory and Support Service (Cafcass) has more information on what you need to do to [become emotionally ready](https://www.cafcass.gov.uk/grown-ups/parents-and-carers/divorce-and-separation/childs-voice-separation/).\r\n\r\n### Other ways to reach an agreement\r\n[Parenting plan](/edit)\r\n\r\n[Negotiating tools](/edit)\r\n\r\n[Letter templates](/edit)\r\n\r\n[Collaborative law](/edit)\r\n\r\n[Lawyer negotiation](/edit)"
+    }
+  ],
+  "heading": "Professional mediation seems to be the most suitable way for you to agree child arrangements",
+  "lede": "Based on the answers you’ve given, you and your children do not appear to be at risk of harm. This means going to court might not be right for you.",
+  "url": "results"
+}

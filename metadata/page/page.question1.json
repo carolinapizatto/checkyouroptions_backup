@@ -1,0 +1,27 @@
+{
+  "_id": "page.question1",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question1--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.question1--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.question1--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Have you tried to agree child arrangements before?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "question1"
+}

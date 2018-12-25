@@ -1,0 +1,62 @@
+{
+  "_id": "page.question2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question2--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Parenting plan",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__12",
+          "_type": "checkbox",
+          "label": "Letter templates",
+          "name": "auto_name__12"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__13",
+          "_type": "checkbox",
+          "label": "Negotiation tools",
+          "name": "auto_name__13"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__14",
+          "_type": "checkbox",
+          "label": "Separated Parents Information Programme (SPIP)",
+          "name": "auto_name__14"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__15",
+          "_type": "checkbox",
+          "label": "Mediation (including a Mediation Information and Assessment Meeting)",
+          "name": "auto_name__15"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "Speaking to a solicitor or lawyer",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "label": "Going to court",
+          "name": "auto_name__17"
+        },
+        {
+          "_id": "page.question2--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "label": "None of these",
+          "name": "auto_name__18"
+        }
+      ],
+      "legend": "What other ways of agreeing child arrangements have you already tried?"
+    }
+  ],
+  "url": "question2"
+}

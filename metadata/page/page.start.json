@@ -1,9 +1,27 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
-  "steps": [],
+  "body": "Use this service to find out: \r\n* what is the most suitable way of agreeing child arrangements.\r\n* if going to court is right for you\r\n \r\nYou’ll be asked general questions about your relationship with the other parent and previous attempts to agree child arrangements with them.",
+  "components": [
+    {
+      "_id": "page.start--inset",
+      "_type": "inset",
+      "html": "You're completely anonymous while using this service and no one will ever see your answers."
+    }
+  ],
+  "heading": "Check your options for child arrangements",
+  "lede": "Child arrangements is also known as contact, access or custody. For example, you may need to decide where your children will live or rearrange the times they see you.",
+  "steps": [
+    "page.question1",
+    "page.question2",
+    "page.question3",
+    "page.question4",
+    "page.question5",
+    "page.question6",
+    "page.question7",
+    "page.question8",
+    "page.question9",
+    "page.results"
+  ],
   "url": "/"
 }
